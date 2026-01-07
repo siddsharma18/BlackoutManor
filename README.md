@@ -2,11 +2,11 @@
 
 A first-person horror survival game built with Unity. Navigate through a dark manor, avoid enemies, collect items, and escape before it's too late.
 
-## 🎮 Game Overview
+## Game Overview
 
 Blackout Manor is a survival horror game where players must explore a dark manor, collect keys, avoid enemies, and find their way to freedom. The game features atmospheric environments, dynamic enemy AI, and immersive gameplay mechanics.
 
-## ✨ Features
+## Features
 
 ### Core Gameplay
 - **First-Person Controls**: Smooth movement and camera controls with walking and running
@@ -26,7 +26,7 @@ Blackout Manor is a survival horror game where players must explore a dark manor
 - **Death Screen**: Restart or quit options
 - **Cursor Control**: Automatic cursor locking/unlocking for menus
 
-## 🛠️ Technical Details
+## Technical Details
 
 ### Unity Version
 - **Unity 2022.3.62f2**
@@ -54,7 +54,7 @@ Blackout Manor is a survival horror game where players must explore a dark manor
 - `Death-Main-Menu.cs` - Death and main menu screen handlers
 - `CursorControl.cs` - Mouse cursor management for menus
 
-## 🎯 Gameplay Mechanics
+## Gameplay Mechanics
 
 ### Movement
 - **WASD** - Move
@@ -74,7 +74,7 @@ Blackout Manor is a survival horror game where players must explore a dark manor
 4. Find and unlock the exit door
 5. Escape to freedom
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 BlackoutManor/
@@ -93,7 +93,7 @@ BlackoutManor/
 └── ProjectSettings/          # Unity project settings
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Unity 2022.3.62f2 or compatible version
@@ -116,7 +116,7 @@ cd BlackoutManor
    - Navigate to `Assets/Scenes/SampleScene.unity`
    - Press Play to start the game
 
-## 🎨 Assets
+## Assets
 
 The game uses a combination of:
 - Custom scripts and mechanics
@@ -124,13 +124,13 @@ The game uses a combination of:
 - Custom 3D models and textures
 - Sound effects and ambient audio
 
-## 🐛 Known Issues
+## Known Issues
 
 - Some scripts may require additional setup in the Unity Inspector
 - NavMesh needs to be baked for enemy AI to work properly
 - Audio sources need to be assigned in the Inspector
 
-## 📝 Development Notes
+## Development Notes
 
 ### Setting Up the Game
 
@@ -155,20 +155,20 @@ The game uses a combination of:
    - Set up key pickup objects with `KeyPickUp` script
    - Configure door script to check for key
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
+## License
 
 This project is open source and available for educational purposes.
 
-## 👤 Author
+## Author
 
 **Siddharth Sharma**
 - GitHub: [@siddsharma18](https://github.com/siddsharma18)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Unity Technologies for the game engine
 - Basic Horror Game Assets contributors
